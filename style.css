@@ -1,0 +1,19 @@
+* {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    font-family: 'Lato', sans-serif;
+    border-radius: 0 !important;
+    overflow-x: hidden !important;
+}
+
+.carousel-item{
+    height: 40rem;
+}
+
+#tak{
+    height: 600px;
+    width: 600px;
+}
+
+.carousel-inner img {
+    margin: auto;
+  }
